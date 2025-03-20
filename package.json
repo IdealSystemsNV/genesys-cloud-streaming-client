@@ -9,7 +9,8 @@
   },
   "main": "src/index.ts",
   "files": [
-    "src"
+    "src", 
+    "types"
   ],
   "types": "types/index.d.ts",
   "scripts": {
